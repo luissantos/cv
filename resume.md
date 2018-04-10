@@ -147,7 +147,7 @@ Education
 ---------
 
 2005–2011
-:   **[BSc, Computer Science Engineering](http://files.isec.pt/documentos/relacoesinternacionais/ECTScatalogue/2013-2014/ECTSCatalogue_deis.pdf)**
+:   **[BSc, Informatics Engineering](http://cv.luissantos.pt/ECTSCatalogue_deis.pdf)**
 
     [Instituto Superior de Engenharia de Coimbra, Portugal](http://www.isec.pt/EN/)
 
