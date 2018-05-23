@@ -20,14 +20,16 @@ July 2017-Now
 
     [Smartfrog](https://www.smartfrog.com/)
 
-     * Promoting development best practices
-     * Implementing java services using Hibernate, SpringBoot and Java8 on AWS.
-     * Helping design and implement high available microservices.
-     * Spliting a monolith app into microservices using an event-driven aproach.
-     * Leading the development of a next generation device management platform.
+     * Promoting development best practices such as:
+        * Test Driven Development
+        * Infrastructure as Code
+     * Implementing java services using
+        * Hibernate, MySQL, DynamoDB, SpringBoot and Java8
+        * AWS Cloud Formation, AWS DynamoDB, MQTT and AWS Kensis
+     * Helping design and implement high available microservices using an event-driven aproach.
+     * Leading a multicultural team of developers to deliver the next generation device management platform.
 
 
-     
 Feb 2016-March 2017
 :   **Software Architect**
 
