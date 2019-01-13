@@ -1,3 +1,7 @@
+---
+lang: en-GB
+---
+
 Luis Santos
 ============
 
@@ -24,20 +28,20 @@ October 2018-Now
         * Optimization of the Elasticsearch cluster to better meet performance requirements
         * Redesign of ES queries to meet performance requirements
      * Serverless data lake
-        * Development and maintenance of existing data lake ETL processes using: AWS Athena, AWS lambda functions and Aws Glue
+        * Development and maintenance of existing data lake ETL processes  using: AWS Athena, AWS lambda functions and Aws Glue
      * PoC using DWH and analytical DB such as ClickHouse and AWS Redshift
      * Architecture proposal to integrate 2 legacy systems. The proposed architecture uses modern technologies such as
        Apache Kafka, Apache Kafka Connect and Docker to integrate 2 legacy systems. The proposal tries to achieve the following goals:
          * Reduce manual user input in both systems
          * Reduce data inconsistencies between the 2 products and deliver a better experience for the end-user
-         * Provide a single source of truth that can be used to build new products with a reduce time to market.
+         * Provide a single source of truth
 
 July 2017-September 2018
-:   **Iot Lead Developer**
+:   **IoT Lead Developer**
 
     [Smartfrog](https://www.smartfrog.com/)
 
-     * Promoting development best practices such as:
+     * Promoting development best practices such as
         * Test Driven Development
         * Infrastructure as Code
      * Implementing java services using
@@ -45,13 +49,13 @@ July 2017-September 2018
         * AWS Cloud Formation, AWS DynamoDB, MQTT and AWS Kinesis
      * Helping design and implement high available microservices using an event-driven approach.
      * Leading a multicultural team of developers to deliver the next generation device management platform.
-     * Promote the use of the SCRUM framework as tool to organize workloads and provide visibility into the development process.
+     * Promote the use of the SCRUM framework as a tool to organize workloads and provide visibility into the development process.
      * Architecture and development of a new camera firmware:
          * New modular design that reduces the development cost and allows for greater flexibility 
-         * Improved realtime communication between the camera and the cloud 
-         * Support for different streaming protocols
-         * Multi platform and multi device support
-         * Design with modern technologies such as: C++ , MQTT, IoC, DI, cmake, GTest and GMock, 
+         * Improved real-time communication between the camera and the cloud 
+         * Support for different streaming protocols<br>
+         * Multi-platform and Multi-device support
+         * Design with modern technologies such as C++, MQTT, IoC, DI, Cmake, GTest and GMock, Poco C++ Framework
 
 
 Feb 2016-March 2017
@@ -65,25 +69,26 @@ Feb 2016-March 2017
         + Development patterns, Integration Patterns
         + Security best practices
      * Helping teams design and implement high available distributed solutions
-       using industry patterns such as micro-services,  message queues, REST architectures and stream processing.
+       using industry patterns such as micro-services,  message queues, REST architectures, and stream processing.
      * Help teams choose from the wide range of AWS technologies available.
 
      * Improving the existing data platform by:
          + Designing a new ingestion pipeline based on [gRPC](http://www.grpc.io/) and [AWS Kinesis](https://aws.amazon.com/kinesis/streams/)
          + Introducing the [Lambda Architecture](http://lambda-architecture.net/) as a way to decouple the components
-           and enable real time use cases
+           and enable real-time use cases
          + Suggesting the [ORC](https://orc.apache.org/) file format as a replacement for the legacy gzip files.
            Up to 10x performance improvement and 50% saving on storage requirements.
          + Suggesting SparkSQL as a standard way to get the data accessible to internal users
 
 
+\pagebreak
 
 Sep 2014-Feb 2016
 :   **Senior Software Developer**
 
       [SolarWinds MSP (previously LogicNow)](https://www.solarwindsmsp.com/)
 
-    As part of a small team I was responsible for the design and implementation of the next generation of infrastructure
+    As part of a small team, I was responsible for the design and implementation of the next generation of infrastructure
     capable of taking millions of devices under management.
 
     This new infrastructure, based on an [Event-Driven Architecture](https://en.wikipedia.org/wiki/Event-driven_architecture),
@@ -93,11 +98,11 @@ Sep 2014-Feb 2016
 
     \
     \
-    As part of this team I shared the responsibility of:
+    As part of this team, I shared the responsibility of:
 
     * Introducing company-wide code reviews using [Phabricator](https://www.phacility.com/phabricator/)
     * Introducing the [Onion Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-    * Introducing the [Repository pattern](http://martinfowler.com/eaaCatalog/repository.html) as replacement for Active Record
+    * Introducing the [Repository pattern](http://martinfowler.com/eaaCatalog/repository.html) as a complement for the Active Record pattern
     * Introducing a [DI container](http://www.martinfowler.com/articles/injection.html)
     * Promoting the use of Docker and [IAC](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
     * Introducing a message queue a way to decouple and scale components
@@ -121,7 +126,7 @@ Apr 2014-Aug 2014
 
      * Upgrade from Netty 3 to Netty 4
      * Rewrite the java client using Netty 4 and NIO
-     * Maintain the existing clients written in PHP, C, Perl and Python
+     * Maintain the existing clients written in PHP, C, Perl, and Python
 
     **Key Skills:**
 
@@ -130,7 +135,7 @@ Apr 2014-Aug 2014
     * JSON, XML, Protobuf, Thrift
     * Linux, Android
 
-
+\pagebreak
 
 Oct 2011-Apr 2014
  :   **PHP Developer**
@@ -168,6 +173,7 @@ Jul 2013-Dec 2013
      Responsible for organizing a monthly event.
 
 
+\pagebreak
 
 Education
 ---------
@@ -178,8 +184,8 @@ Education
     [Instituto Superior de Engenharia de Coimbra, Portugal](http://www.isec.pt/EN/)
 
     * SQL Databases (Oracle, SQLserver)
-    * Software engineering, Software patterns and algorithms
-    * Software Development Java, EJB, C/C++ , C#.NET , ASP.NET
+    * Software engineering, Software patterns, and algorithms
+    * Software Development Java, EJB, C/C++, C#.NET, ASP.NET
     * Networks and protocols, TCP/IP, OSPF, RIP, CCNA
 
 
@@ -187,7 +193,7 @@ Interests
 --------------------
 
 The Open Source Initiative (OSI) - Individual Member
-:   Open Source software is a fundamental part of our society and i felt that
+:   Open Source software is a fundamental part of our society and I felt that
     after using open source software for more than 10 years, supporting the OSI
     was the right thing to do.
 
@@ -195,22 +201,16 @@ The Open Source Initiative (OSI) - Individual Member
 
 
 Other interests
-:   **Java:** The java ecosystem is a huge and vibrant ecosystem and takes a life
-    time to master. Some of many the subjects I've been studying:
+:   **Java:** The java ecosystem is a huge and vibrant ecosystem and takes a lifetime to master. Some of many the subjects I've been studying:
 
     * GraalVM and AOT compilation in serverless environments
     * Dependency injection in serverless environments using Dagger
 
-:   **RabbitMQ:** Message Queues are a key piece of any distributed system. I do a lot of research
-    about MQ patterns and how to solve some common problems.
-    I also contribute to RabbitMQ mailing list every time i have an opportunity.
+:   **RabbitMQ:** Message Queues are a key piece of any distributed system. I do a lot of research about MQ patterns and how to solve some common problems. I also contribute to RabbitMQ mailing list every time I have an opportunity.
 
-:   **Kotlin and other functional languages:** Expressive code is a great way to reduce the number of bugs
-    and increase productivity. I've been looking at other languages and tools to increase productivity
-    on the JVM platform.
+:   **Kotlin and other functional languages:** Expressive code is a great way to reduce the number of bugs and increase productivity. I've been looking at other languages and tools to increase productivity on the JVM platform.
 
-:   **Lisp, Scheme and Racket :**  On free my time I've been learning Racket. My interest in such languages 
-    is due to its simplicity. This simplicity and flexibility makes them very powerful and the perfect vehicle to 
+:   **Lisp, Scheme and Racket :**  On free my time I've been learning Racket. My interest in such languages is due to its simplicity. This simplicity and flexibility make them very powerful and the perfect vehicle to 
     implement new programming concepts without the need to change the language.
 
 
