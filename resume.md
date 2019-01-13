@@ -46,12 +46,12 @@ July 2017-September 2018
      * Helping design and implement high available microservices using an event-driven approach.
      * Leading a multicultural team of developers to deliver the next generation device management platform.
      * Promote the use of the SCRUM framework as tool to organize workloads and provide visibility into the development process.
-     * Architecture of a new Camera Firmware:
-       * New modular design that reduces the development cost and allows for greater flexibility 
-       * Improved realtime communication between the camera and the cloud 
-       * Support for different streaming protocols
-       * Multi platform and multi device support
-       * Design with modern technologies such as: C++ , MQTT, IoC, DI, Cmake, GTest and GMock, 
+     * Architecture and development of a new camera firmware:
+         * New modular design that reduces the development cost and allows for greater flexibility 
+         * Improved realtime communication between the camera and the cloud 
+         * Support for different streaming protocols
+         * Multi platform and multi device support
+         * Design with modern technologies such as: C++ , MQTT, IoC, DI, cmake, GTest and GMock, 
 
 
 Feb 2016-March 2017
