@@ -1,6 +1,9 @@
 Luis Santos
 ============
 
+
+> <luis@luissantos.pt> • +49 15901335753  • 31 years old
+
 ----
 
 > I'm a passionate software engineer focused on building great solutions
@@ -9,13 +12,27 @@ Luis Santos
 > using Java and Linux as the main stack.
 >
 
-
 ----
 
 Experience
 ----------
 
-July 2017-Now
+October 2018-Now
+:   **Senior Data Consultant**
+
+     * Elasticsearch
+        * Optimization of the Elasticsearch cluster to better meet performance requirements
+        * Redesign of ES queries to meet performance requirements
+     * Serverless data lake
+        * Development and maintenance of existing data lake ETL processes using: AWS Athena, AWS lambda functions and Aws Glue
+     * PoC using DWH and analytical DB such as ClickHouse and AWS Redshift
+     * Architecture proposal to integrate 2 legacy systems. The proposed architecture uses modern technologies such as
+       Apache Kafka, Apache Kafka Connect and Docker to integrate 2 legacy systems. The proposal tries to achieve the following goals:
+         * Reduce manual user input in both systems
+         * Reduce data inconsistencies between the 2 products and deliver a better experience for the end-user
+         * Provide a single source of truth that can be used to build new products with a reduce time to market.
+
+July 2017-September 2018
 :   **Iot Lead Developer**
 
     [Smartfrog](https://www.smartfrog.com/)
@@ -25,15 +42,22 @@ July 2017-Now
         * Infrastructure as Code
      * Implementing java services using
         * Hibernate, MySQL, DynamoDB, SpringBoot and Java8
-        * AWS Cloud Formation, AWS DynamoDB, MQTT and AWS Kensis
-     * Helping design and implement high available microservices using an event-driven aproach.
+        * AWS Cloud Formation, AWS DynamoDB, MQTT and AWS Kinesis
+     * Helping design and implement high available microservices using an event-driven approach.
      * Leading a multicultural team of developers to deliver the next generation device management platform.
+     * Promote the use of the SCRUM framework as tool to organize workloads and provide visibility into the development process.
+     * Architecture of a new Camera Firmware:
+       * New modular design that reduces the development cost and allows for greater flexibility 
+       * Improved realtime communication between the camera and the cloud 
+       * Support for different streaming protocols
+       * Multi platform and multi device support
+       * Design with modern technologies such as: C++ , MQTT, IoC, DI, Cmake, GTest and GMock, 
 
 
 Feb 2016-March 2017
 :   **Software Architect**
 
-    [SolarWinds MSP (previously logicnow)](https://www.solarwindsmsp.com/)
+    [SolarWinds MSP (previously LogicNow)](https://www.solarwindsmsp.com/)
 
      * Promoting awareness of development best practices across the company
         + CI/CD , TDD
@@ -57,7 +81,7 @@ Feb 2016-March 2017
 Sep 2014-Feb 2016
 :   **Senior Software Developer**
 
-      [SolarWinds MSP (previously logicnow)](https://www.solarwindsmsp.com/)
+      [SolarWinds MSP (previously LogicNow)](https://www.solarwindsmsp.com/)
 
     As part of a small team I was responsible for the design and implementation of the next generation of infrastructure
     capable of taking millions of devices under management.
@@ -71,12 +95,12 @@ Sep 2014-Feb 2016
     \
     As part of this team I shared the responsibility of:
 
-    * Introducing companywide code reviews using [Phabricator](https://www.phacility.com/phabricator/)
+    * Introducing company-wide code reviews using [Phabricator](https://www.phacility.com/phabricator/)
     * Introducing the [Onion Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
     * Introducing the [Repository pattern](http://martinfowler.com/eaaCatalog/repository.html) as replacement for Active Record
     * Introducing a [DI container](http://www.martinfowler.com/articles/injection.html)
     * Promoting the use of Docker and [IAC](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
-    * Introducing a message queue a way to decople and scale components
+    * Introducing a message queue a way to decouple and scale components
 
     **Key Skills:**
 
@@ -174,9 +198,8 @@ Other interests
 :   **Java:** The java ecosystem is a huge and vibrant ecosystem and takes a life
     time to master. Some of many the subjects I've been studying:
 
-    * Garbage collector and memory management
-    * Class loader and byte code manipulation
-    * Java agent - How to debug and profile production code
+    * GraalVM and AOT compilation in serverless environments
+    * Dependency injection in serverless environments using Dagger
 
 :   **RabbitMQ:** Message Queues are a key piece of any distributed system. I do a lot of research
     about MQ patterns and how to solve some common problems.
@@ -185,6 +208,10 @@ Other interests
 :   **Kotlin and other functional languages:** Expressive code is a great way to reduce the number of bugs
     and increase productivity. I've been looking at other languages and tools to increase productivity
     on the JVM platform.
+
+:   **Lisp, Scheme and Racket :**  On free my time I've been learning Racket. My interest in such languages 
+    is due to its simplicity. This simplicity and flexibility makes them very powerful and the perfect vehicle to 
+    implement new programming concepts without the need to change the language.
 
 
 
@@ -201,4 +228,4 @@ Other
 
 ----
 
-> <luis@luissantos.pt> • +44 7597 235096  • 30 years old
+> <luis@luissantos.pt> • +49 15901335753  • 31 years old
