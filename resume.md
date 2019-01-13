@@ -197,16 +197,16 @@ The Open Source Initiative (OSI) - Individual Member
 
 
 
-
 Other interests
-:   **Java:** The java ecosystem is a huge and vibrant ecosystem and takes a lifetime to master. Some of many the subjects I've been studying:
+:   **Java:**
 
     * GraalVM and AOT compilation in serverless environments
     * Dependency injection in serverless environments using Dagger
+    * Kotlin - Kotlin modern and expressive features deliver great productivity at a lower entry barrier. A great alternative to Java.
 
 :   **RabbitMQ:** Message Queues are a key piece of any distributed system. I do a lot of research about MQ patterns and how to solve some common problems. I also contribute to RabbitMQ mailing list every time I have an opportunity
 
-:   **Kotlin and other functional languages:** Expressive code is a great way to reduce the number of bugs and increase productivity. I've been looking at other languages and tools to increase productivity on the JVM platform
+:   **Arduino and digital electronics:** One of my hobbies is to build small digital circuits that let control devices around the house and in the process improve my understanding about the different technologies available to consumers. DIY is a fun and pragmatic way of exploring the concepts of Computing and IoT.
 
 :   **Lisp, Scheme and Racket :**  On free my time I've been learning Racket. My interest in such languages is due to its simplicity. This simplicity and flexibility make them very powerful and the perfect vehicle to 
     implement new programming concepts without the need to change the language
