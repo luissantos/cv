@@ -6,23 +6,46 @@ Luis Santos
 ============
 
 
-> <luis@luissantos.pt> • +49 15901335753  • 31 years old
+> <luis@luissantos.pt> • +49 15901335753  • 32 years old
 
 ----
 
-> I'm a passionate software engineer focused on building great solutions
-> based on industry best practices. I've architected and built
-> horizontally scalable solutions and implemented message queue and REST architecture patterns
-> using Java and Linux as the main stack.
+> I'm a passionate technical leader focused on building great products and leading 
+> great teams. I've architected and built
+> horizontally scalable systems on Amazon Web Services and Microsoft Azure. 
 >
+> I work with modern technology stacks such as JVM ( Java, Kotlin, Clojure ) Spring Boot, Kafka, and Kubernetes.
 
 ----
 
 Experience
 ----------
 
-October 2018-Now
+March 2019-now
+:   **Technical Lead**
+
+    [Movingimage](https://www.movingimage.com/)
+    
+    * Leading multiple agile teams to deliver software on time
+    * Designed a new search system based on GraphQL that provides a flexible and faster way to access data
+    * Redesigned existing systems into microservices to achieve better scalability and maintainability 
+    * Other responsibilities
+      * Cost management and reporting
+      * Project planning
+    * Key Technical Skills
+      * Kubernetes, Helm
+      * Elasticsearch
+      * Grafana stack
+      * Azure Cloud: Blob Storage, AKS
+      * FFMPEG
+      * RabbitMQ, Kafka 
+      * Java, Kotlin
+      
+\pagebreak
+
+Oct 2018-Jan 2019 
 :   **Senior Data Consultant**
+
 
      * Elasticsearch
         * Optimization of the Elasticsearch cluster to better meet performance requirements
@@ -36,7 +59,9 @@ October 2018-Now
          * Reduce data inconsistencies between the 2 products and deliver a better experience for the end-user
          * Provide a single source of truth
 
-July 2017-September 2018
+<br>
+
+Jul 2017-Sep 2018
 :   **IoT Lead Developer**
 
     [Smartfrog](https://www.smartfrog.com/)
@@ -57,7 +82,7 @@ July 2017-September 2018
          * Multi-platform and Multi-device support
          * Design with modern technologies such as C++, MQTT, IoC, DI, Cmake, GTest and GMock, Poco C++ Framework
 
-
+\pagebreak
 Feb 2016-March 2017
 :   **Software Architect**
 
@@ -192,17 +217,13 @@ Education
 Interests
 --------------------
 
-The Open Source Initiative (OSI) - Individual Member
-:   Open Source software is a fundamental part of our society and supporting OSI is a great way to support open source. 
-
-
-
 Other interests
 :   **Java:**
 
     * GraalVM and AOT compilation in serverless environments
     * Dependency injection in serverless environments using Dagger
     * Kotlin - Kotlin modern and expressive features deliver great productivity at a lower entry barrier. A great alternative to Java.
+    * Clojure - Modern lisp on the jvm and javascript
 
 :   **RabbitMQ:** Message Queues are a key piece of any distributed system. I do a lot of research about MQ patterns and how to solve some common problems. I also contribute to RabbitMQ mailing list every time I have an opportunity
 
@@ -226,4 +247,4 @@ Languages
 
 ----
 
-> <luis@luissantos.pt> • +49 15901335753  • 31 years old
+> <luis@luissantos.pt> • +49 15901335753  • 32 years old
