@@ -6,12 +6,119 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>resume</title>
   <style>
+    html {
+      line-height: 1.7;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 40em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin-top: 1.7em;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.7em;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1.7em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1.7em 0 1.7em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      font-style: italic;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      background-color: #f0f0f0;
+      font-size: 85%;
+      margin: 0;
+      padding: .2em .4em;
+    }
+    pre {
+      line-height: 1.5em;
+      padding: 1em;
+      background-color: #f0f0f0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin-top: 1.7em;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+    }
+    th, td {
+      border-bottom: 1px solid lightgray;
+      padding: 1em 3em 1em 0;
+    }
+    header {
+      margin-bottom: 6em;
+      text-align: center;
+    }
+    nav a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -124,18 +231,18 @@
 <section id="luis-santos" class="level1">
 <h1>Luis Santos</h1>
 <blockquote>
-<p><a href="mailto:luis@luissantos.pt" class="email">luis@luissantos.pt</a> • +49 15901335753 • 32 years old</p>
+<p><a href="mailto:luis@luissantos.pt" class="email">luis@luissantos.pt</a> • +49 15901335753 • 33 years old</p>
 </blockquote>
 <hr />
 <blockquote>
-<p>I’m a passionate technical leader focused on building great products and leading great teams. I’ve architected and built horizontally scalable systems on Amazon Web Services and Microsoft Azure.</p>
-<p>I work with modern technology stacks such as JVM ( Java, Kotlin, Clojure ) Spring Boot, Kafka, and Kubernetes.</p>
-</blockquote>
+<p>Passionate Technical Leader focused on building great products and leading by example. With more than 12 years of experience, my job is to help teams build complex software in the cloud, using modern tools and practices.</p>
+<p>I’m currently looking for a Technical Lead or Engineering Manager hands on role, in Berlin, with with the possibility for some remote work in the long term.</p>
 <hr />
+</blockquote>
 <section id="experience" class="level2">
 <h2>Experience</h2>
 <dl>
-<dt>March 2019-now</dt>
+<dt>March 2019-Nov 2020</dt>
 <dd><p><strong>Technical Lead</strong></p>
 <p><a href="https://www.movingimage.com/">Movingimage</a></p>
 <ul>
@@ -146,16 +253,18 @@
 <ul>
 <li>Cost management and reporting</li>
 <li>Project planning</li>
+<li>Hiring and mentoring developers</li>
 </ul></li>
 <li>Key Technical Skills
 <ul>
-<li>Kubernetes, Helm</li>
-<li>Elasticsearch</li>
+<li><a href="https://kubernetes.io/">Kubernetes</a>, <a href="https://helm.sh/">Helm</a></li>
+<li><a href="https://www.elastic.co/elasticsearch/">Elasticsearch</a></li>
 <li>Grafana stack</li>
-<li>Azure Cloud: Blob Storage, AKS</li>
-<li>FFMPEG</li>
-<li>RabbitMQ, Kafka</li>
+<li>Azure Cloud: Blob Storage, CosmosDB, AKS</li>
+<li><a href="https://ffmpeg.org/">FFMPEG</a></li>
+<li><a href="https://www.rabbitmq.com/">RabbitMQ</a>, <a href="https://kafka.apache.org/">Kafka</a></li>
 <li>Java, Kotlin</li>
+<li><a href="https://www.keycloak.org/">Keycloak</a></li>
 </ul></li>
 </ul>
 </dd>
@@ -362,7 +471,7 @@ As part of this team, I shared the responsibility of:</p>
 </dl>
 <hr />
 <blockquote>
-<p><a href="mailto:luis@luissantos.pt" class="email">luis@luissantos.pt</a> • +49 15901335753 • 32 years old</p>
+<p><a href="mailto:luis@luissantos.pt" class="email">luis@luissantos.pt</a> • +49 15901335753 • 33 years old</p>
 </blockquote>
 </section>
 </section>

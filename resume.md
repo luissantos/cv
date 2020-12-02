@@ -6,22 +6,22 @@ Luis Santos
 ============
 
 
-> <luis@luissantos.pt> • +49 15901335753  • 32 years old
+> <luis@luissantos.pt> • +49 15901335753  • 33 years old
 
 ----
 
-> I'm a passionate technical leader focused on building great products and leading 
-> great teams. I've architected and built
-> horizontally scalable systems on Amazon Web Services and Microsoft Azure. 
+>Passionate Technical Leader focused on building great products and leading by example.
+>With more than 12 years of experience, my job is to help teams build complex software in the cloud, using modern tools and practices. 
 >
-> I work with modern technology stacks such as JVM ( Java, Kotlin, Clojure ) Spring Boot, Kafka, and Kubernetes.
-
+>I'm currently looking for a Technical Lead or Engineering Manager hands on role, in Berlin, with
+>with the possibility for some remote work in the long term.
+>
 ----
 
 Experience
 ----------
 
-March 2019-now
+March 2019-Nov 2020
 :   **Technical Lead**
 
     [Movingimage](https://www.movingimage.com/)
@@ -32,14 +32,16 @@ March 2019-now
     * Other responsibilities
       * Cost management and reporting
       * Project planning
+      * Hiring and mentoring developers
     * Key Technical Skills
-      * Kubernetes, Helm
-      * Elasticsearch
+      * [Kubernetes](https://kubernetes.io/), [Helm](https://helm.sh/)
+      * [Elasticsearch](https://www.elastic.co/elasticsearch/)
       * Grafana stack
-      * Azure Cloud: Blob Storage, AKS
-      * FFMPEG
-      * RabbitMQ, Kafka 
+      * Azure Cloud: Blob Storage, CosmosDB, AKS
+      * [FFMPEG](https://ffmpeg.org/)
+      * [RabbitMQ](https://www.rabbitmq.com/), [Kafka](https://kafka.apache.org/)
       * Java, Kotlin
+      * [Keycloak](https://www.keycloak.org/)
       
 \pagebreak
 
@@ -247,4 +249,4 @@ Languages
 
 ----
 
-> <luis@luissantos.pt> • +49 15901335753  • 32 years old
+> <luis@luissantos.pt> • +49 15901335753  • 33 years old
